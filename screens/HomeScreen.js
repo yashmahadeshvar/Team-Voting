@@ -66,11 +66,13 @@ const styles = StyleSheet.create({
     marginTop: 50,
   },
   buttons: {
-    backgroundColor:"coral",
+    //changed the bg color
+    backgroundColor:"LightBlue",
     alignItems: 'center',
     justifyContent: 'center',
-    borderWidth: 1,
-    borderRadius: 15,
+    borderWidth: 15,
+    //changed BorderRadius to 
+    borderRadius: 17,
     margin:10,
     width: 150,
     height: 50,
